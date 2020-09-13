@@ -1,4 +1,4 @@
-# Q2A Ultimate SEO plugin [![Question2Answer](http://qa-themes.com/files/q2a-logo.png)](http://www.question2answer.org/) [![Question2Answer Themes](http://qa-themes.com/files/qa-logo.jpg)](http://qa-themes.com/)
+# Q2A Ultimate SEO plugin (http://www.question2answer.org/)
 
 # Important
 *This Plugin is still in Alpha version.* some features are yet to be added to this and features already available are not yet tested by other developers and community members.
